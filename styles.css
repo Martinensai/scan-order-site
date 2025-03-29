@@ -35,6 +35,16 @@ li {
     padding: 10px;
     margin: 5px;
     border-radius: 5px;
+    display: inline-block;
+}
+
+li:hover {
+    background: #0056b3;
+}
+
+img {
+    width: 150px;
+    margin-top: 10px;
 }
 
 footer {
